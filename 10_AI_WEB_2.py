@@ -77,7 +77,7 @@ with tab2:
     with col1:
         st.write('')
     with col2:
-        st.image('normal.gif', width= 100)
+        st.image('normal.gif', width= 300)
     with col3:
         st.write('')
 
